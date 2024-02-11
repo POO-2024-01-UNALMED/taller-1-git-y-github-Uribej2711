@@ -1,3 +1,6 @@
 Juan José Uribe Londoño
 19
 Poder desarrollar habilidades de programación orienta a objetos, manejar java y python de un modo más avanzado para el buen curso de mi carrera universitaria.
+Porque al ingresar la respuesta.txt dentro de la carpeta archivos, github lo detecta como un cambio entonces me deja subir el cambio a la nube.
+
+porque puede generar conflictos entre los archivos de el github desktop y el github en linea.
