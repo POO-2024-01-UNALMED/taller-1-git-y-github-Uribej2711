@@ -1,0 +1,1 @@
+Porque al ingresar la respuesta.txt dentro de la carpeta archivos, github lo detecta como un cambio entonces me deja subir el cambio a la nube.
